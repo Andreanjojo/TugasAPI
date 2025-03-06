@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "cZTzfwDmPhU=",
+  "success": true,
+  "projectFilePath": "d:\\API\\TUGAS 2\\WebApplication1\\WebApplication1.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\LENOVO\\.nuget\\packages\\microsoft.aspnetcore.openapi\\9.0.1\\microsoft.aspnetcore.openapi.9.0.1.nupkg.sha512",
+    "C:\\Users\\LENOVO\\.nuget\\packages\\microsoft.openapi\\1.6.17\\microsoft.openapi.1.6.17.nupkg.sha512"
+  ],
+  "logs": []
+}
